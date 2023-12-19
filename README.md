@@ -1,3 +1,1 @@
-Link:
-
-  https://python-weather-app-ffz3.onrender.com
+https://python-weather-app-ffz3.onrender.com
